@@ -4,10 +4,6 @@ const wordList=[
         hint: "This property is responsible for changing the font color."
     },
     {
-        word:"backgroundcolor",
-        hint:"It combines two words and sets the color behind the content."
-    },
-    {
         word:"textalign",
         hint:"This property aligns the text horizontally."
     },
